@@ -11,3 +11,4 @@ This Shiny application provides an interactive analysis of diversity within majo
 
 #### Visit my Data Visualiztion Portfolio Here:
 https://ekass.shinyapps.io/PortfolioProject/
+![image](https://github.com/user-attachments/assets/c15c5dfc-138c-4069-972a-6799d6b99ed1)
